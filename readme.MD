@@ -1,3 +1,3 @@
 Lab 0
 
-Github code example
+Github Classroom and Codespaces example
